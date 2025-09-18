@@ -1,5 +1,6 @@
 [tugas2.html](https://github.com/user-attachments/files/22403902/tugas2.html)
-<!DOCTYPE html>
+[medsos image](https://github.com/user-attachments/assets/1e60e148-69dd-40f3-98ec-9e94442e7236)
+<!DOCTYPE html>!
 <html lang="id">
 <head>
     <meta charset="UTF-8">
